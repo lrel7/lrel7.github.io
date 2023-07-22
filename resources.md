@@ -14,5 +14,5 @@ key: page-about
 * [质量与密度的测量数据处理](https://lrel7.github.io/assets/docs/physics/mass_density.pdf)
 
 ### 思政相关
-* [中国近现代史纲要重要知识点目录（前7章）](https://lrel.github.io/assets/docs/politics/catalog.pdf)
-* [中国近现代史纲要考试大抄（个人整理的拓展版，不全）](https://lrel.github.io/assets/docs/politics/exam_notes.doc)
+* [中国近现代史纲要重要知识点目录（前7章）](https://lrel7.github.io/assets/docs/politics/catalog.pdf)
+* [中国近现代史纲要考试大抄（个人整理的拓展版，不全）](https://lrel7.github.io/assets/docs/politics/exam_notes.doc)
