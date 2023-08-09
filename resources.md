@@ -4,7 +4,7 @@ title: Resouces
 key: page-about
 ---
 
-### DWSY Reports
+### 大物实验报告
 * [重力加速度的测量](https://lrel7.github.io/assets/docs/physics/gravity.pdf)
 * [整流滤波](https://lrel7.github.io/assets/docs/physics/rectifier_filter.pdf)
 * [分光计](https://lrel7.github.io/assets/docs/physics/spectrometer.pdf)
@@ -15,4 +15,4 @@ key: page-about
 
 ### 思政相关
 * [中国近现代史纲要重要知识点目录（前7章）](https://lrel7.github.io/assets/docs/politics/catalog.pdf)
-* [中国近现代史纲要考试大抄（个人整理的拓展版，不全）](https://lrel7.github.io/assets/docs/politics/exam_notes.doc)
+* [中国近现代史纲要考试大抄（个人整理的拓展版，不全）](https://lrel7.github.io/assets/docs/politics/exam_notes.docx)
