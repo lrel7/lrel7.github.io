@@ -1,9 +1,9 @@
 ---
-title: 将wsl2从C盘迁移到D盘
-tags: wsl2
+title: 将WSL2从C盘迁移到D盘
+tags: WSL2
 ---
 
-众所周知，C盘是操作系统所在的分区，如果其被过多软件占用，将会导致系统的响应速度变慢，影响整体性能。随着wsl2的逐渐使用，其虚拟硬盘渐变大，因此考虑将其迁移到D盘
+众所周知，C盘是操作系统所在的分区，如果其被过多软件占用，将会导致系统的响应速度变慢，影响整体性能。随着WSL2的逐渐使用，其虚拟硬盘渐变大，因此考虑将其迁移到D盘
 
 ### 迁移
 * 使用命令`wsl --export <distro name> d:\<tar name>.tar`备份发行版
@@ -27,8 +27,8 @@ tags: wsl2
 default=<username>
 ```
 ---
-### 升级到wsl2
-* 按以上步骤导入后，wsl版本可能为1，执行命令`wsl --set-version <distro name> 2`可升级为wsl2
+### 升级到WSL2
+* 按以上步骤导入后，WSL版本可能为1，执行命令`wsl --set-version <distro name> 2`可升级为wsl2
 * 我遇到了报错：
 ```shell
 导入分发失败。
@@ -73,4 +73,4 @@ default=<username>
 ./opt/intel/oneapi/dal/2023.2.0/include/services/internal/buffer_impl.h: Write to restore size failed
 ./opt/intel/oneapi/dal/2023.2.0/include/services/internal/buffer_impl_sycl.h: Write to restore s
 ```
-出现错误的原因不明，但解决方法就是把以上涉及的文件全部删掉，成功升级到wsl2，之后再重新安装所需的程序。
+出现错误的原因不明，但解决方法就是把以上涉及的文件全部删掉，成功升级到WSL2，之后再重新安装所需的程序。
